@@ -6,6 +6,5 @@
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### 📫 Contact Information
-- 🟣 **Discord**: Lawd#8497
-- 🔵 **Telegram**: @LawdDev
-- 📄 **Email**: contactlawd@gmail.com
+- 🟣 **Discord**: Kenney#9380
+- 📄 **Email**: contactkenney@gmail.com
