@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I specialize in creating high-quality scripts and 
 ---
 
 ### 📚 **Current Projects**
-- 🌟 *[kennys_barrel_runs]* – A custom made Barrel run script!
-- 🔒 *[kennys_containers]* – A custom made container run heist.
-- 🚓 *[kennys_tablet]* – Custom Police MDT with React Frontend
+- 🌟 *kennys_barrel_runs* – A custom-made Barrel run script!
+- 🔒 *kennys_containers* – A custom-made container run heist.
+- 🚓 *kennys_tablet* – Custom Police MDT with React Frontend
 
 👉 None of my repositories are open-source as of yet!
 
