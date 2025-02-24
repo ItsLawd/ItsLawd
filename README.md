@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I specialize in creating high-quality scripts and 
 - 🟢 Lua | JavaScript | TypeScript
 - 🌐 HTML | CSS | React
 - 🗄️ MySQL | MongoDB
-- ⚙️ FiveM Native API | ESX | QBCore
+- ⚙️ FiveM Native API | QBox | QBCore
 - 🛠️ Git | VS Code | Linux Server Management
 
 ---
