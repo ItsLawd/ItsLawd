@@ -1,46 +1,44 @@
-### 👋 Hey there! I'm Kenney!
+# 👋 Hi, I'm Kenney!
 
-🚀 **FiveM Script Developer | Lua & JavaScript Enthusiast | Open-Source Contributor**
+I'm a passionate **programmer** who loves sharing knowledge with the community. I will create **free educational content** to help beginners and advanced developers grow their skills.  
 
-Welcome to my GitHub profile! I specialize in creating high-quality scripts and resources for the FiveM community, helping server owners bring their visions to life.
-
----
-
-# 💻 Tech Stack:
- ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+📌 **Follow my journey and let's build together!** 🚀
 
 ---
 
-### 🔝 Top Contributed Repo
- ![](https://github-contributor-stats.vercel.app/api?username=itsLawd&limit=5&theme=dark&combine_all_yearly_contributions=true)
- 
- 
-
-### 📚 **Current Projects**
-- 🌟 *kennys_barrel_runs* – A custom-made Barrel run script!
-- 🔒 *kennys_containers* – A custom-made container run heist.
-- 🚓 *kennys_tablet* – Custom Police MDT with React Frontend
-
-👉 None of my repositories are open-source as of yet!
+## 🌐 Socials:
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ItsLawd)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)]([https://youtube.com/c/your-profile](https://www.youtube.com/@kenneysdevelopment))
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.com/invite/your-server-link)
 
 ---
 
-### 🤝 **Collaborate with Me**
-Have an idea for a custom FiveM script or need help with your server? I'm always open to collaborating on exciting projects.
-
-💬 **Let's connect:**
-- 📧 kylefivemdev@gmail.com
-
----
-
-### 🎮 **Fun Fact**
-When I'm not coding, you’ll probably find me exploring new FiveM servers, tweaking scripts, or enjoying a good round of GTA Online!
+## 🛠 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ---
 
-⭐ **If you like what I do, consider giving a star to my profile and following my coding journey!** ⭐
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsLawd&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLawd&layout=compact&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+---
+
+## 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ItsLawd&theme=darkhub)
+
+---
+
+## 📅 GitHub Activity:
+![GitHub Streak](https://streak-stats.demolab.com?user=ItsLawd&theme=dark&hide_border=false)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ItsLawd&theme=react-dark)
+
+---
+
+### 🚀 Keep Coding & Keep Learning!
