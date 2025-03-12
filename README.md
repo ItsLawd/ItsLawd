@@ -26,7 +26,7 @@ I'm a passionate **programmer** who loves sharing knowledge with the community. 
 
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsLawd&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLawd&layout=compact&theme=dark)
+<img src="https://img.shields.io/badge/Top%20Language-Lua-blue?logo=lua" width="400" />
 
 ---
 
