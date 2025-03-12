@@ -40,7 +40,7 @@ When I'm not coding, you’ll probably find me exploring new FiveM servers, twea
 
 ⭐ **If you like what I do, consider giving a star to my profile and following my coding journey!** ⭐
 
-
-
-<picture>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
+ <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
